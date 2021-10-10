@@ -1,6 +1,12 @@
 gi他管理文件夹
 1.进入要管理的文件夹
+右键-》git bash 
 2.初始化（提名）
+->git init 初始化生成版本控制文件
+->git status 查看当前git本地状态
 3.管理
+-》git add '文件名'
+
 4.生成版本
+-》git commit -m '版本号'
 
